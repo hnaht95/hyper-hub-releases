@@ -13,6 +13,20 @@
              download URL của DMG trên GitHub release. -->
 
         <item>
+            <title>v0.1.39</title>
+            <pubDate>Tue, 28 Apr 2026 15:35:51 +0700</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/hnaht95/hyper-hub-releases/releases/tag/v0.1.39</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/hnaht95/hyper-hub-releases/releases/download/v0.1.39/HyperHub-0.1.39.dmg"
+                sparkle:edSignature="URkSAJUk4nEI2LBO9Hxuf9kBOTJICcUEZJmOW7PBl9EjCQ2DxUVwgi6wChNo9fGvEMz7pEmBT+KEJGUZ4VO/BQ=="
+                length="16495603"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>v0.1.38</title>
             <pubDate>Tue, 28 Apr 2026 15:24:06 +0700</pubDate>
             <sparkle:version>39</sparkle:version>
