@@ -12,6 +12,20 @@
              insert ở vị trí này. Mỗi entry chứa version + signature +
              download URL của DMG trên GitHub release. -->
         <item>
+            <title>v0.2.4</title>
+            <pubDate>Fri, 15 May 2026 11:53:41 +0700</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/hnaht95/hyper-hub-releases/releases/tag/v0.2.4</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/hnaht95/hyper-hub-releases/releases/download/v0.2.4/HyperHub-0.2.4.dmg"
+                sparkle:edSignature="2nQyU7H1xZk1nS5tTQtFgIRBN/mH/O6F1G6rzJwYk255iSsgIh3xy/JFE+uNuOo5JmJcvUpRQcizxw19jksHAQ=="
+                length="19493229"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>v0.2.3</title>
             <pubDate>Fri, 15 May 2026 08:39:43 +0700</pubDate>
             <sparkle:version>104</sparkle:version>
