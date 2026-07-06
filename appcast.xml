@@ -11,6 +11,19 @@
         <!-- Item entries — newest first. Generated bằng tools/release.sh,
              insert ở vị trí này. Mỗi entry chứa version + signature +
              download URL của DMG trên GitHub release. -->
+                <item>
+            <title>v0.2.16</title>
+            <pubDate>Mon, 06 Jul 2026 08:57:10 +0700</pubDate>
+            <sparkle:version>117</sparkle:version>
+            <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/hnaht95/hyper-hub-releases/releases/tag/v0.2.16</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/hnaht95/hyper-hub-releases/releases/download/v0.2.16/HyperHub-0.2.16.dmg"
+                sparkle:edSignature="nEJsBpmxGX2fVXVmVXIPKEVlI6nqtehiMse/4wETmCHqgozSR+C59pHOZWGjN+adhuIEDVcr3IwMazHX4TUkAw=="
+                length="27169423"
+                type="application/octet-stream" />
+        </item>
         <item>
             <title>v0.2.15</title>
             <pubDate>Tue, 19 May 2026 09:24:37 +0700</pubDate>
